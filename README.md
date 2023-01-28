@@ -1,16 +1,23 @@
-### Hi there 👋
+### hey hey, vynii aqui 👋 PT-BR
 
-<!--
-**Vyniii/vyniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎸 Meu nome verdadeiro não é vinicius mas eu prefiro ser chamado assim 
+- 📣 Como me encontrar: 
+  - 🎮Discord: Vynii#1701
+  - 📱Twitter: @Vynii_Gt
+  - 📷Instagram: vyniigt
+- 🌱 Estudando Javascript e um pouco de C#
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato sobre mim: Eu sou bem flexivel e eclético pra diversos assuntos... jogos, musicas etc. sou bem imparcial 🥴
+- ⏱ 18 anos e seguindo a vida!
 
-Here are some ideas to get you started:
+### hey hey, vynii here 👋 ENG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎸 My real name isn't vinicius but i prefer to be called as that 
+- 📣 How to find me: 
+  - 🎮Discord: Vynii#1701
+  - 📱Twitter: @Vynii_Gt
+  - 📷Instagram: vyniigt
+- 🌱 Studying Javascript and a bit of C#
+- 😄 Pronouns: He/Him
+- ⚡ A fact about me: I'm very flexible and eclectic for different subjects... games, music etc. I'm very impartial 🥴
+- ⏱ 18 years old and moving on!
