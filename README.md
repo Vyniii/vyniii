@@ -7,7 +7,6 @@
   - 📷Instagram: vyniigt
 - 🌱 Estudando Javascript e um pouco de C#
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato sobre mim: Eu sou bem flexivel e eclético pra diversos assuntos... jogos, musicas etc. sou bem imparcial 🥴
 - ⏱ 18 anos e seguindo a vida!
 
 ### hey hey, vynii here 👋 ENG
@@ -19,5 +18,4 @@
   - 📷Instagram: vyniigt
 - 🌱 Studying Javascript and a bit of C#
 - 😄 Pronouns: He/Him
-- ⚡ A fact about me: I'm very flexible and eclectic for different subjects... games, music etc. I'm very impartial 🥴
 - ⏱ 18 years old and moving on!
