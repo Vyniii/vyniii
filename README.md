@@ -1,6 +1,6 @@
 ### hey hey, vynii aqui 👋 PT-BR
 
-- 🎸 Meu nome verdadeiro não é vinicius mas eu prefiro ser chamado assim 
+- 🎸 Meu primeiro nome não é vinicius mas eu prefiro ser chamado assim 
 - 📣 Como me encontrar: 
   - 🎮Discord: Vynii#1701
   - 📱Twitter: @Vynii_Gt
@@ -11,7 +11,7 @@
 
 ### hey hey, vynii here 👋 ENG
 
-- 🎸 My real name isn't vinicius but i prefer to be called as that 
+- 🎸 My first name isn't vinicius but i prefer to be called as that 
 - 📣 How to find me: 
   - 🎮Discord: Vynii#1701
   - 📱Twitter: @Vynii_Gt
