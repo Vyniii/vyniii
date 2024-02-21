@@ -7,7 +7,7 @@
   - 📷Instagram: vyniigt
 - 🌱 Estudando Javascript e um pouco de C#
 - 😄 Pronomes: Ele/Dele
-- ⏱ 18 anos e seguindo a vida!
+- ⏱ 19 anos e seguindo a vida!
 
 ### hey hey, vynii here 👋 ENG
 
@@ -18,4 +18,4 @@
   - 📷Instagram: vyniigt
 - 🌱 Studying Javascript and a bit of C#
 - 😄 Pronouns: He/Him
-- ⏱ 18 years old and moving on!
+- ⏱ 19 years old and moving on!
